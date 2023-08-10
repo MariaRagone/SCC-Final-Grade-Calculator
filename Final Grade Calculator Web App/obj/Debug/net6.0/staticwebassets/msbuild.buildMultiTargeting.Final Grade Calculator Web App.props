@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Final Grade Calculator Web App.props" />
+</Project>

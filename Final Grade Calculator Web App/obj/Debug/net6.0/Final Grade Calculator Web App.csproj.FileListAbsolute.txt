@@ -1,0 +1,31 @@
+C:\Users\maria\source\repos\Final Grade Calculator Web App\Final Grade Calculator Web App\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\maria\source\repos\Final Grade Calculator Web App\Final Grade Calculator Web App\bin\Debug\net6.0\appsettings.json
+C:\Users\maria\source\repos\Final Grade Calculator Web App\Final Grade Calculator Web App\bin\Debug\net6.0\Final Grade Calculator Web App.staticwebassets.runtime.json
+C:\Users\maria\source\repos\Final Grade Calculator Web App\Final Grade Calculator Web App\bin\Debug\net6.0\Final Grade Calculator Web App.exe
+C:\Users\maria\source\repos\Final Grade Calculator Web App\Final Grade Calculator Web App\bin\Debug\net6.0\Final Grade Calculator Web App.deps.json
+C:\Users\maria\source\repos\Final Grade Calculator Web App\Final Grade Calculator Web App\bin\Debug\net6.0\Final Grade Calculator Web App.runtimeconfig.json
+C:\Users\maria\source\repos\Final Grade Calculator Web App\Final Grade Calculator Web App\bin\Debug\net6.0\Final Grade Calculator Web App.dll
+C:\Users\maria\source\repos\Final Grade Calculator Web App\Final Grade Calculator Web App\bin\Debug\net6.0\Final Grade Calculator Web App.pdb
+C:\Users\maria\source\repos\Final Grade Calculator Web App\Final Grade Calculator Web App\obj\Debug\net6.0\Final Grade Calculator Web App.csproj.AssemblyReference.cache
+C:\Users\maria\source\repos\Final Grade Calculator Web App\Final Grade Calculator Web App\obj\Debug\net6.0\Final Grade Calculator Web App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\source\repos\Final Grade Calculator Web App\Final Grade Calculator Web App\obj\Debug\net6.0\Final Grade Calculator Web App.AssemblyInfoInputs.cache
+C:\Users\maria\source\repos\Final Grade Calculator Web App\Final Grade Calculator Web App\obj\Debug\net6.0\Final Grade Calculator Web App.AssemblyInfo.cs
+C:\Users\maria\source\repos\Final Grade Calculator Web App\Final Grade Calculator Web App\obj\Debug\net6.0\Final Grade Calculator Web App.csproj.CoreCompileInputs.cache
+C:\Users\maria\source\repos\Final Grade Calculator Web App\Final Grade Calculator Web App\obj\Debug\net6.0\Final Grade Calculator Web App.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\maria\source\repos\Final Grade Calculator Web App\Final Grade Calculator Web App\obj\Debug\net6.0\Final Grade Calculator Web App.RazorAssemblyInfo.cache
+C:\Users\maria\source\repos\Final Grade Calculator Web App\Final Grade Calculator Web App\obj\Debug\net6.0\Final Grade Calculator Web App.RazorAssemblyInfo.cs
+C:\Users\maria\source\repos\Final Grade Calculator Web App\Final Grade Calculator Web App\obj\Debug\net6.0\staticwebassets\msbuild.Final Grade Calculator Web App.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\maria\source\repos\Final Grade Calculator Web App\Final Grade Calculator Web App\obj\Debug\net6.0\staticwebassets\msbuild.build.Final Grade Calculator Web App.props
+C:\Users\maria\source\repos\Final Grade Calculator Web App\Final Grade Calculator Web App\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Final Grade Calculator Web App.props
+C:\Users\maria\source\repos\Final Grade Calculator Web App\Final Grade Calculator Web App\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Final Grade Calculator Web App.props
+C:\Users\maria\source\repos\Final Grade Calculator Web App\Final Grade Calculator Web App\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\maria\source\repos\Final Grade Calculator Web App\Final Grade Calculator Web App\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\maria\source\repos\Final Grade Calculator Web App\Final Grade Calculator Web App\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\maria\source\repos\Final Grade Calculator Web App\Final Grade Calculator Web App\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\maria\source\repos\Final Grade Calculator Web App\Final Grade Calculator Web App\obj\Debug\net6.0\scopedcss\bundle\Final Grade Calculator Web App.styles.css
+C:\Users\maria\source\repos\Final Grade Calculator Web App\Final Grade Calculator Web App\obj\Debug\net6.0\scopedcss\projectbundle\Final Grade Calculator Web App.bundle.scp.css
+C:\Users\maria\source\repos\Final Grade Calculator Web App\Final Grade Calculator Web App\obj\Debug\net6.0\Final Grade Calculator Web App.dll
+C:\Users\maria\source\repos\Final Grade Calculator Web App\Final Grade Calculator Web App\obj\Debug\net6.0\refint\Final Grade Calculator Web App.dll
+C:\Users\maria\source\repos\Final Grade Calculator Web App\Final Grade Calculator Web App\obj\Debug\net6.0\Final Grade Calculator Web App.pdb
+C:\Users\maria\source\repos\Final Grade Calculator Web App\Final Grade Calculator Web App\obj\Debug\net6.0\Final Grade Calculator Web App.genruntimeconfig.cache
+C:\Users\maria\source\repos\Final Grade Calculator Web App\Final Grade Calculator Web App\obj\Debug\net6.0\ref\Final Grade Calculator Web App.dll

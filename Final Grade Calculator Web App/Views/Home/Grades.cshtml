@@ -1,0 +1,189 @@
+﻿@model Student
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<form asp-method="post" asp-action="Grades">
+    <p>Student Name: <input type="text" name="studentName" /></p>
+    <p>Percentage Grade: <input type="number" name="studentPercentage" /></p>
+
+    <p><input type="submit" /></p>
+
+</form>
+
+
+<div style="background-color #fec45d;"
+<p>Student Name: @Model.studentName</p>
+<p>Percentage Grade: @Model.studentPercentage</p>
+
+@{
+    if (Model.studentPercentage >= 92)
+    {
+        Model.studentLetterGrade = "A";
+            Model.studentGPA = 4.0m;
+    }
+    else if (Model.studentPercentage >= 89)
+    {
+        Model.studentLetterGrade = "A-";
+        Model.studentGPA = 3.9m;
+    }
+    else if (Model.studentPercentage >= 88)
+    {
+        Model.studentLetterGrade = "A-";
+        Model.studentGPA = 3.8m;
+    }
+    else if (Model.studentPercentage >= 87)
+    {
+        Model.studentLetterGrade = "A-";
+        Model.studentGPA = 3.7m;
+    }
+    else if (Model.studentPercentage >= 86)
+    {
+        Model.studentLetterGrade = "B+";
+        Model.studentGPA = 3.6m;
+    }
+    else if (Model.studentPercentage >= 85)
+    {
+        Model.studentLetterGrade = "B+";
+        Model.studentGPA = 3.5m;
+    }
+    else if (Model.studentPercentage >= 84)
+    {
+        Model.studentLetterGrade = "B+";
+        Model.studentGPA = 3.4m;
+    }
+    else if (Model.studentPercentage >= 83)
+    {
+        Model.studentLetterGrade = "B+";
+        Model.studentGPA = 3.3m;
+    }
+    else if (Model.studentPercentage >= 82)
+    {
+        Model.studentLetterGrade = "B";
+        Model.studentGPA = 3.2m;
+    }
+    else if (Model.studentPercentage >= 81)
+    {
+        Model.studentLetterGrade = "B";
+        Model.studentGPA = 3.1m;
+    }
+    else if (Model.studentPercentage >= 80)
+    {
+        Model.studentLetterGrade = "B";
+        Model.studentGPA = 3.0m;
+    }
+    else if (Model.studentPercentage >= 79)
+    {
+        Model.studentLetterGrade = "B-";
+        Model.studentGPA = 2.9m;
+    }
+    else if (Model.studentPercentage >= 78)
+    {
+        Model.studentLetterGrade = "B-";
+        Model.studentGPA = 2.8m;
+    }
+    else if (Model.studentPercentage >= 77)
+    {
+        Model.studentLetterGrade = "B-";
+        Model.studentGPA = 2.7m;
+    }
+    else if (Model.studentPercentage >= 76)
+    {
+        Model.studentLetterGrade = "C+";
+        Model.studentGPA = 2.6m;
+    }
+    else if (Model.studentPercentage >= 75)
+    {
+        Model.studentLetterGrade = "C+";
+        Model.studentGPA = 2.5m;
+    }
+    else if (Model.studentPercentage >= 74)
+    {
+        Model.studentLetterGrade = "C+";
+        Model.studentGPA = 2.4m;
+    }
+    else if (Model.studentPercentage >= 73)
+    {
+        Model.studentLetterGrade = "C+";
+        Model.studentGPA = 2.3m;
+    }
+    else if (Model.studentPercentage >= 72)
+    {
+        Model.studentLetterGrade = "C";
+        Model.studentGPA = 2.2m;
+    }
+    else if (Model.studentPercentage >= 71)
+    {
+        Model.studentLetterGrade = "C";
+        Model.studentGPA = 2.1m;
+    }
+    else if (Model.studentPercentage >= 70)
+    {
+        Model.studentLetterGrade = "C";
+        Model.studentGPA = 2.0m;
+    }
+    else if (Model.studentPercentage >= 69)
+    {
+        Model.studentLetterGrade = "C-";
+        Model.studentGPA = 1.9m;
+    }
+    else if (Model.studentPercentage >= 68)
+    {
+        Model.studentLetterGrade = "C-";
+        Model.studentGPA = 1.8m;
+    }
+    else if (Model.studentPercentage >= 67)
+    {
+        Model.studentLetterGrade = "C-";
+        Model.studentGPA = 1.7m;
+    }
+    else if (Model.studentPercentage >= 66)
+    {
+
+        Model.studentLetterGrade = "D+";
+        Model.studentGPA = 1.6m;
+    }
+    else if (Model.studentPercentage >= 65)
+    {
+        Model.studentLetterGrade = "D+";
+        Model.studentGPA = 1.5m;
+    }
+    else if (Model.studentPercentage >= 64)
+    {
+        Model.studentLetterGrade = "D+";
+        Model.studentGPA = 1.4m;
+    }
+    else if (Model.studentPercentage >= 63)
+    {
+        Model.studentLetterGrade = "D+";
+        Model.studentGPA = 1.3m;
+    }
+    else if (Model.studentPercentage >= 62)
+    {
+        Model.studentLetterGrade = "D";
+        Model.studentGPA = 1.2m;
+    }
+    else if (Model.studentPercentage >= 61)
+    {
+        Model.studentLetterGrade = "D";
+        Model.studentGPA = 1.1m;
+    }
+    else if (Model.studentPercentage >= 59.5)
+    {
+        Model.studentLetterGrade = "D";
+        Model.studentGPA = 1.0m;
+    }
+    else
+    {
+        Model.studentLetterGrade = "F";
+        Model.studentGPA = 0.0m;
+    }
+
+
+
+}
+    <p> Letter Grade: @Model.studentLetterGrade</p>
+    <p> GPA: @Model.studentGPA</p>
+    </div>
+
